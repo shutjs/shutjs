@@ -1,7 +1,7 @@
 # Hi there  
 ![profile count](https://komarev.com/ghpvc/?username=shutjs&color=87CEEB)&nbsp;
 [![GitHub Shut](https://img.shields.io/github/followers/shutjs?label=follow&style=social)](https://github.com/shutjs)&nbsp;
-[![Discord Server](https://discord.gg/botservice);
+[Discord Server](https://discord.gg/botservice);
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/669513018777796638)](https://discord.com/users/669513018777796638)
 
