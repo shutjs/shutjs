@@ -2,9 +2,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=shutjs&color=87CEEB)&nbsp;
 [![GitHub Shut](https://img.shields.io/github/followers/shutjs?label=follow&style=social)](https://github.com/shutjs)&nbsp;
 <br>
-[Discord Server](https://discord.gg/botservice)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/669513018777796638)](https://discord.com/users/669513018777796638)
 
 ## Langauges I Know:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,3 +18,4 @@
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=shutjs&theme=radical" />
 </p>
+
